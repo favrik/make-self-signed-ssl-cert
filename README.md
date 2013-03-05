@@ -1,4 +1,4 @@
-# Make a SSL test certificate for local use
+# Make a self-signed SSL test certificate for local use
 
 ```bash
 $ ./doit.sh your.host.name
